@@ -1,0 +1,12 @@
+/* Class to set fixed height for cards */
+.card-fixed-height {
+  height: 220px; /* Adjust the height as needed */
+}
+
+.card-body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  height: 100%;
+  text-align: center;
+}
